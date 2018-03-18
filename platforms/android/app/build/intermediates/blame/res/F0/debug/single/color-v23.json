@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

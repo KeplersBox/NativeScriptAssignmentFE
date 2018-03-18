@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_fade_out.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/design_snackbar_in.xml",
+        "source": "/home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/drawer_slide_out_top.xml",
+        "source": "/home/me-yoyo/.android/build-cache/d1cb7fc6dd456c678188519aff079a5443581818/output/res/anim/drawer_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/design_snackbar_out.xml",
+        "source": "/home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_popup_exit.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_fade_in.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/drawer_slide_in_top.xml",
+        "source": "/home/me-yoyo/.android/build-cache/d1cb7fc6dd456c678188519aff079a5443581818/output/res/anim/drawer_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_popup_enter.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/anim/abc_popup_enter.xml"
+    }
+]

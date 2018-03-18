@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/incremental/mergeF0DebugResources/merged.dir/values-sw320dp-v13/values-sw320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/home/me-yoyo/.android/build-cache/d06ed32fc3303a3bc80ccd0af75b4d82e957cdf7/output/res/values-sw320dp-v13/values-sw320dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

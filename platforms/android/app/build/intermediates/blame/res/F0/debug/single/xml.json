@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/xml/chart_palettes_default_light.xml",
+        "source": "/home/me-yoyo/.android/build-cache/575eff6ac34cf9bb6fc4f45f7a221d5ff15bf697/output/res/xml/chart_palettes_default_light.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/xml/chart_palettes_default_dark.xml",
+        "source": "/home/me-yoyo/.android/build-cache/575eff6ac34cf9bb6fc4f45f7a221d5ff15bf697/output/res/xml/chart_palettes_default_dark.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/xml/chart_palettes_dark_selected.xml",
+        "source": "/home/me-yoyo/.android/build-cache/575eff6ac34cf9bb6fc4f45f7a221d5ff15bf697/output/res/xml/chart_palettes_dark_selected.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/xml/chart_palettes_light_selected.xml",
+        "source": "/home/me-yoyo/.android/build-cache/575eff6ac34cf9bb6fc4f45f7a221d5ff15bf697/output/res/xml/chart_palettes_light_selected.xml"
+    }
+]

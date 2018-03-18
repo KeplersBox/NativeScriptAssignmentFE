@@ -1,0 +1,59 @@
+<ActionBar class="action-bar">
+    <!-- 
+    Use the NavigationButton as a side-drawer button in Android because ActionItems are shown on the right side of the ActionBar
+    -->
+    <NavigationButton ios:visibility="collapsed" icon="res://menu" (tap)="onDrawerButtonTap()"></NavigationButton>
+    <!-- 
+    Use the ActionItem for IOS with position set to left. Using the NavigationButton as a side-drawer button in iOS is not possible, because its function is to always navigate back in the application.
+    -->
+    <ActionItem icon="res://navigation/menu" android:visibility="collapsed" (tap)="onDrawerButtonTap()"
+        ios.position="left">
+    </ActionItem>
+    <Label class="action-bar-title" text="Inbox"></Label>
+</ActionBar>
+
+
+<RadSideDrawer #drawer showOverNavigation="true" [drawerTransition]="sideDrawerTransition">
+    <!--
+    Use the tkDrawerContent directive to display the content of the app drawer on this page.
+    -->
+    <StackLayout tkDrawerContent>
+        <MyDrawer [selectedPage]="'Inbox'"></MyDrawer>
+    </StackLayout>
+    
+    <!--
+    Use the tkMainContent directive to display the content of the page when you have an app drawer.
+    -->
+   
+    <GridLayout class="page page-content" tkMainContent>
+            <StackLayout class="form">
+                    <Button text="Compose" class="btn btn-primary m-t-20"></Button>
+            </StackLayout>
+        <ListView class="list-group inbox-card " [items]="inboxes" (setupItemView)="onSetupItemView($event)">
+            <ng-template let-item="item" let-i="index"  let-i="index" let-odd="odd" let-even="even">
+
+                    <DockLayout [class.odd]="odd" [class.even]="even" height="210" stretchLastChild="false">
+                           
+                            <Image marginTop="10" class="avatar" src="res://avatar" doc="left" width="" stretch="none" ></Image>
+                            <StackLayout class="inbox-card"  >
+                       
+                                    <Label [text]='"Form: " + item.sender'></Label>
+                                    
+                                    <Label>
+                                        <FormattedString>
+                                            <Span [text]='item.subjects' class="blue-font" fontWeight="Bold"></Span>
+                                        </FormattedString>
+                                    </Label>
+                                    <Label textAlignment="left" left="0" [text]='item.email'></Label>
+                                </StackLayout>
+                        </DockLayout>
+               
+            </ng-template>
+        </ListView>
+      
+    </GridLayout>
+
+
+
+  
+</RadSideDrawer>

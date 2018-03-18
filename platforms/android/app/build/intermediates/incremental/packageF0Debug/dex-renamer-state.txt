@@ -1,0 +1,4 @@
+#Sun Mar 18 17:20:15 EAT 2018
+base.0=/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main/classes.dex

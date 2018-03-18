@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:3:2-36
+		INJECTED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:4:2-29
+		INJECTED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/834a149d7dbc4cb0d017a6e123fc7ddf4e3ead49/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/468bfcf7290a4dff36d2876ef0910b6a5a2569cb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/f9155bfc6e85aa3420735f502c106ffba2f65aac/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/d556591eced9c006d1c11a23b0a9bae5a43b0bcc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/0f712a54fb91155100eac486a9a645e7933765aa/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/1a9415a7e4217ca18ab0c978da05b49f991cd284/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/8c2ed5ee02b684909cfb054c93e1a4e3600c835e/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/3325c81fec9bc2662ffdf1be8d6fdd7210788186/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/a3f39f1dfea4358c09dfc833bf0eaaedf9b37ae0/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/dd010a1e6109955961cb0ed230697954c417a09e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [:nativescript-optimized:] /home/me-yoyo/.android/build-cache/307f8f3aed84e016e0be9095e616e883e7c2688f/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:List-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/dbc12bb702d61eb528f8edab3b54a1fabb2ed8a9/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Data-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/6d0e3e5c379b307535d935f2e47e292324ba3857/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Common-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/bfcaaea6009ff9300ea336344ea98373e4e69d8f/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Gauges-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/b824240fe321c262c65b9fa3765998efdde762f3/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Input-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/d06ed32fc3303a3bc80ccd0af75b4d82e957cdf7/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Chart-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/575eff6ac34cf9bb6fc4f45f7a221d5ff15bf697/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Primitives-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/d1cb7fc6dd456c678188519aff079a5443581818/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/me-yoyo/.android/build-cache/f9bcc198971037123388ee3d44e8042237ace296/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/834a149d7dbc4cb0d017a6e123fc7ddf4e3ead49/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/468bfcf7290a4dff36d2876ef0910b6a5a2569cb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/d556591eced9c006d1c11a23b0a9bae5a43b0bcc/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/0f712a54fb91155100eac486a9a645e7933765aa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/1a9415a7e4217ca18ab0c978da05b49f991cd284/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/8c2ed5ee02b684909cfb054c93e1a4e3600c835e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/3325c81fec9bc2662ffdf1be8d6fdd7210788186/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/a3f39f1dfea4358c09dfc833bf0eaaedf9b37ae0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/dd010a1e6109955961cb0ed230697954c417a09e/output/AndroidManifest.xml:29:5-20
+MERGED from [:List-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/dbc12bb702d61eb528f8edab3b54a1fabb2ed8a9/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:11:5-32:19
+MERGED from [:Data-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/6d0e3e5c379b307535d935f2e47e292324ba3857/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:Common-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/bfcaaea6009ff9300ea336344ea98373e4e69d8f/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:Gauges-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/b824240fe321c262c65b9fa3765998efdde762f3/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:Input-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/d06ed32fc3303a3bc80ccd0af75b4d82e957cdf7/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:Chart-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/575eff6ac34cf9bb6fc4f45f7a221d5ff15bf697/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:Primitives-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/d1cb7fc6dd456c678188519aff079a5443581818/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /home/me-yoyo/.android/build-cache/f9bcc198971037123388ee3d44e8042237ace296/output/AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from /home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/834a149d7dbc4cb0d017a6e123fc7ddf4e3ead49/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/468bfcf7290a4dff36d2876ef0910b6a5a2569cb/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/f9155bfc6e85aa3420735f502c106ffba2f65aac/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/d556591eced9c006d1c11a23b0a9bae5a43b0bcc/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/0f712a54fb91155100eac486a9a645e7933765aa/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/1a9415a7e4217ca18ab0c978da05b49f991cd284/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/8c2ed5ee02b684909cfb054c93e1a4e3600c835e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/3325c81fec9bc2662ffdf1be8d6fdd7210788186/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/a3f39f1dfea4358c09dfc833bf0eaaedf9b37ae0/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/dd010a1e6109955961cb0ed230697954c417a09e/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/AndroidManifest.xml:26:9-47
+activity#com.telerik.widget.feedback.SendFeedbackActivity
+ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:12:9-16:20
+	android:label
+		ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:14:13-65
+	android:theme
+		ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:15:13-50
+	android:name
+		ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:13:13-76
+activity#com.telerik.widget.feedback.ViewFeedbackActivity
+ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:17:9-21:20
+	android:label
+		ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:19:13-65
+	android:theme
+		ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:20:13-50
+	android:name
+		ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:18:13-76
+activity#com.telerik.widget.feedback.ViewFeedbackItemActivity
+ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:22:9-26:20
+	android:label
+		ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:24:13-65
+	android:theme
+		ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:25:13-50
+	android:name
+		ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:23:13-80
+activity#com.telerik.widget.feedback.EditDetailsActivity
+ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:27:9-31:20
+	android:label
+		ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:29:13-64
+	android:theme
+		ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:30:13-50
+	android:name
+		ADDED from [:Feedback-2017.1.1221-dev-release:] /home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/AndroidManifest.xml:28:13-75

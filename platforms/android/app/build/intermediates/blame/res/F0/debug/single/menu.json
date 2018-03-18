@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/view_feedback_items_activity_menu.xml",
+        "source": "/home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/res/menu/view_feedback_items_activity_menu.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/send_feedback_activity_menu.xml",
+        "source": "/home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/res/menu/send_feedback_activity_menu.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/edit_details.xml",
+        "source": "/home/me-yoyo/.android/build-cache/59b888d18eaaa7f96c85379b51a0c2f462e700a6/output/res/menu/edit_details.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/layout-v11/simple_list_item.xml",
+        "source": "/home/me-yoyo/.android/build-cache/dbc12bb702d61eb528f8edab3b54a1fabb2ed8a9/output/res/layout-v11/simple_list_item.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/layout-v11/on_demand_manual.xml",
+        "source": "/home/me-yoyo/.android/build-cache/dbc12bb702d61eb528f8edab3b54a1fabb2ed8a9/output/res/layout-v11/on_demand_manual.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/layout-v11/notification_media_action.xml"
+    }
+]

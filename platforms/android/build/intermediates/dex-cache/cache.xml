@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/me-yoyo/.android/build-cache/307f8f3aed84e016e0be9095e616e883e7c2688f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_29618b378dadf09094aa769fed5cb6e026d14feb.jar" />
+    </item>
+
+</items>

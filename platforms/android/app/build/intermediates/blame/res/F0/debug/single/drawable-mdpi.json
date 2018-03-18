@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-mdpi/menu.png",
+        "source": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/res/drawable-mdpi/menu.png"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-mdpi/icon.png",
+        "source": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-mdpi/avatar.png",
+        "source": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/res/drawable-mdpi/avatar.png"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-mdpi/background.png",
+        "source": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-mdpi/logo.png",
+        "source": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/src/main/res/drawable-mdpi/logo.png"
+    }
+]

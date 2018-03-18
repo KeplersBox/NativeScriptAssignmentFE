@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/autocomplete_bg_normal.xml",
+        "source": "/home/me-yoyo/.android/build-cache/d06ed32fc3303a3bc80ccd0af75b4d82e957cdf7/output/res/drawable-v21/autocomplete_bg_normal.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/autocomplete_focusable_bg.xml",
+        "source": "/home/me-yoyo/.android/build-cache/d06ed32fc3303a3bc80ccd0af75b4d82e957cdf7/output/res/drawable-v21/autocomplete_focusable_bg.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/me-yoyo/.android/build-cache/e625bedb77b5ded6b27505bf87efd9c2aa28a1b3/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/autocomplete_bg_active.xml",
+        "source": "/home/me-yoyo/.android/build-cache/d06ed32fc3303a3bc80ccd0af75b4d82e957cdf7/output/res/drawable-v21/autocomplete_bg_active.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/pressable_item_background.xml",
+        "source": "/home/me-yoyo/.android/build-cache/dbc12bb702d61eb528f8edab3b54a1fabb2ed8a9/output/res/drawable-v21/pressable_item_background.xml"
+    }
+]

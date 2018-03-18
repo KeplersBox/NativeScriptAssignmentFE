@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/me-yoyo/Desktop/MyLab/MyInbox/platforms/android/app/build/intermediates/res/merged/F0/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/me-yoyo/.android/build-cache/b5b99cfd4569c567a06165ea6482a29d8931b030/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]
